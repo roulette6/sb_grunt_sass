@@ -1,0 +1,14 @@
+{
+  "name": "PhilSmrek",
+  "version": "0.1.0",
+  "description": "Phil Smrek photography website",
+  "main": "index.js",
+  "author": "Josue Martinez",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt-contrib-watch": "~0.6.1",
+    "grunt": "~0.4.5",
+    "grunt-contrib-sass": "~0.8.1",
+    "grunt-contrib-compass": "~1.0.1"
+  }
+}
